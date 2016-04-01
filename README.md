@@ -1,13 +1,15 @@
 This is tasks for ife.baidu.task. 
 Thanks.
 
+<!--
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xtml1/DTD/xhtml1-transitional.dtd">
+
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<title>JennyJiang_task_1_1_1</title>
-	</head>
+		<title></title>
 
+-->
 	<body>
   	<div class="wrap">
   			<h1>网站一级标题</h1>
