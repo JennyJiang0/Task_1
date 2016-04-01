@@ -3,10 +3,16 @@ Thanks.
 
 代码详情请参见task001.html
 
+慕课网HTML学习：http://www.imooc.com/learn/9
 
 ...
+<html>
+    <head>...</head>
+    <body>...</body>
+</html>
+...
 
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+meta http-equiv="Content-Type" content="text/html; charset=utf-8"
 
 	<body>
   	<div class="wrap">
