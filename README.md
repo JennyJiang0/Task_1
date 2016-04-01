@@ -1,16 +1,15 @@
 This is tasks for ife.baidu.task. 
 Thanks.
 
-<!--
-1. <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xtml1/DTD/xhtml1-transitional.dtd">
 
-2. <html xmlns="http://www.w3.org/1999/xhtml">
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xtml1/DTD/xhtml1-transitional.dtd">
+
+ <... xmlns="http://www.w3.org/1999/xhtml">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<title></title>
 
--->
-3.	<body>
+	<body>
   	<div class="wrap">
   			<h1>网站一级标题</h1>
   			<!-- 无序排列 -->
@@ -85,4 +84,4 @@ Thanks.
 				</form>
 				
 	<p>版权所有&copy;</p>
-</html>
+
