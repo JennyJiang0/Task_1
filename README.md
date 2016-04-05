@@ -3,6 +3,7 @@ Thanks.
 
 代码详情请参见task001.html
 
+百度前端技术学院任务：http://ife.baidu.com/task/all
 慕课网HTML学习：http://www.imooc.com/learn/9
 
 ...
