@@ -6,13 +6,13 @@ Thanks.
 百度前端技术学院任务：http://ife.baidu.com/task/all
 慕课网HTML学习：http://www.imooc.com/learn/9
 
-...
+```
 <html>
     <head>...</head>
     <body>...</body>
 </html>
-...
-
+```
+```
 meta http-equiv="Content-Type" content="text/html; charset=utf-8"
 
 	<body>
@@ -90,4 +90,4 @@ meta http-equiv="Content-Type" content="text/html; charset=utf-8"
 		</form>
 				
 	<p>版权所有&copy;</p>
-
+```
