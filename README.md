@@ -4,8 +4,26 @@ Thanks.
 代码详情请参见task001.html
 
 百度前端技术学院任务：http://ife.baidu.com/task/all
+https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/Introduction
+
 慕课网HTML学习：http://www.imooc.com/learn/9
 
+一个完整且精简的文档EDIT
+如下是一个迷你的HTML示例文档。你可以把这些代码复制到文本编辑器中，另存为myfirstdoc.html，然后用浏览器打开它。另外请注意，你需要确保使用了utf-8的编码格式保存了这份HTML示例文档。虽然我们没有为这份文档添加任何样式信息（从而让视觉效果显得十分朴素），但这总归算一个不错的开始，不是吗？祝你前路好运！
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>A tiny document</title>
+</head>
+<body>
+  <h1>Main heading in my document</h1>
+  <!-- Note that it is "h" + "1", not "h" + the letter "one" -->
+  <p>Loook Ma, I am coding <abbr title="Hyper Text Markup Language">HTML</abbr>.</p>
+</body>
+</html>
+```
 ```
 <html>
     <head>...</head>
